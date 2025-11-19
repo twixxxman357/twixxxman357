@@ -1,4 +1,4 @@
-<h1><a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud OPS</a> | <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud </a> | <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Solutions Architect</a></h1>
+<h1><a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud AI OPS</a> | <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Architect</a> | <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Solutions Architect</a></h1>
 
 
 # Hello, I'm Alastair
