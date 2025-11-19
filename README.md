@@ -10,3 +10,26 @@
 
 
 I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering practices. I am deeply passionate about Networking and Security and hope to transfer these skills into the cloud space using GCP and AWS platforms, while adopting IAC automation methodologies such as Terraform to build and scale infrastructures in the cloud.
+
+
+## 👨‍💻 Skills - Cloud Projects
+
+| Skill                                            | Cloud Project         |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+<h1>Hi, I'm Babatunde!  <br/><a href="https://github.com/">🚀 Solutions Architect </a> | <a href="https://www.linkedin.com/in/babatunde-oloye-6b93942a4/">Cybersecurity Professional</a>
+
+
+<h1>🎓 Certifications</h1> ✅
+• <b>AWS Certified Solutions Architect - Associate</b><br> ✅
+• <b>HashiCorp Terraform Associate (003)</b><br> ✅
+• <b>Certificate IV in Cybersecurity</b><br> ✅
+• <b>GRC Mastery Certificate</b><br> 
+
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+  
+| Skill                       | Cloud Project         |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Jenkins Installation        |<a href="https://github.com/baba2undexlxye/Deploying-Jenkins-on-an-AWS-Ubuntu-EC2-Instance">Deploying Jenkins on an AWS Ubuntu EC2 Instance</a> |
+| AWS Three Tier Web Architecture | |
