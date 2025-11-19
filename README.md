@@ -12,8 +12,6 @@
 
 
 
-I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering practices. I am deeply passionate about Networking and Security and hope to transfer these skills into the cloud space using GCP and AWS platforms, while adopting IAC automation methodologies such as Terraform to build and scale infrastructures in the cloud.
-
 
 
 
