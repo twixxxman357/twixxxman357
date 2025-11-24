@@ -28,6 +28,8 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 • <b>HashiCorp Terraform Associate(003) (In progress)</b><br> 
 
 
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
