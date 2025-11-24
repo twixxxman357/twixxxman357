@@ -10,7 +10,7 @@
 
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,ansible,azure,bash,gitlab,jenkins,kubernetes,powershell,py,vscode)](https://skillicons.dev)
 
 
 
