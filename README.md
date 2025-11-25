@@ -39,5 +39,5 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 | Jenkins Installation        |<a href="https://github.com/twixxxman357/Deploy-Jenkins-on-AWS-Ubuntu-EC2-Instance-.git">Deploying Jenkins on an AWS Ubuntu EC2 Instance</a> |
 | AWS Global Web Architecture IaC |<a href="https://github.com/twixxxman357/AWS-Cloud-Global-Architecture.git">Global Deployment AWS using Terraform</a> |
 | GCP Load Balancer  |<a href="https://github.com/twixxxman357/GCP-Load-Balancer-Deployment.git">Deployment of GCP Load Balancer</a> |
-| AWS Three Tier Web Architecture |<a href="https://github.com/twixxxman357/armageddon-2.0.git">Deployment of Architecture</a> |
+| AWS Three Tier Web Architecture |<a href="https://github.com/twixxxman357/web-3-tier.git">Deployment of Architecture</a> |
 
