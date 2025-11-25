@@ -1,5 +1,4 @@
-<h1><a href="">Cloud AI OPS</a> | <a href="">Cloud Architect</a> | <a href="">Cloud Solutions Architect</a></h1>
-
+ 
 
 
 
