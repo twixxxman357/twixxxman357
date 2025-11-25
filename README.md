@@ -38,4 +38,5 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 | Skill                       | Cloud Project         |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Jenkins Installation        |<a href="https://github.com/baba2undexlxye/Deploying-Jenkins-on-an-AWS-Ubuntu-EC2-Instance">Deploying Jenkins on an AWS Ubuntu EC2 Instance</a> |
+| AWS Global Web Architecture | |
 | AWS Three Tier Web Architecture | |
