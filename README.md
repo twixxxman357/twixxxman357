@@ -40,6 +40,6 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 | AWS Global Web Architecture Terraform |<a href="https://github.com/twixxxman357/AWS-Cloud-Global-Architecture.git">Global Deployment AWS using Terraform</a> |
 | GCP Load Balancer  |<a href="https://github.com/twixxxman357/GCP-Load-Balancer-Deployment.git">Deployment of GCP Load Balancer</a> |
 | AWS Three Tier Web Architecture |<a href="https://github.com/twixxxman357/3-Tier-Architecture-Terraform.git">Deployment of Architecture</a> |
-| PYTHON APP Building |<a href="https://github.com/twixxxman357/Red-Eyes-Github-Bootcamp-PYTHON.git">Python Coding Teaching Application Tkinter/a> |
+| PYTHON APP Building |<a href="https://github.com/twixxxman357/Red-Eyes-Github-Bootcamp-PYTHON.git">Python Coding Teaching Application Tkinter</a> |
 
 
