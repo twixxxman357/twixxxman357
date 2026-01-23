@@ -12,7 +12,7 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 
 
 # My Skills🎓
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,ansible,azure,bash,gitlab,jenkins,kubernetes,powershell,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,docker,ansible,azure,bash,github,jenkins,kubernetes,powershell,py,vscode)](https://skillicons.dev)
 
 
 
