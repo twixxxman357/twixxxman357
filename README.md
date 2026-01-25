@@ -11,6 +11,7 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/alastair-davis-930329232/)
 
 
+
 # My Skills🎓
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,docker,ansible,azure,bash,github,jenkins,kubernetes,powershell,py,vscode)](https://skillicons.dev)
 
