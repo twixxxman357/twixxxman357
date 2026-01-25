@@ -14,6 +14,8 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 # My Skills🎓
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,docker,ansible,azure,bash,github,jenkins,kubernetes,powershell,py,vscode)](https://skillicons.dev)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ffbc42e9-e971-46f4-b61e-35440275154b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 
