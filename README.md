@@ -4,7 +4,12 @@
 
 # About Me
 
-I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering practices. I am deeply passionate about Networking and Security and hope to transfer these skills into the cloud space using GCP and AWS platforms, while adopting IAC automation methodologies such as Terraform to build and scale infrastructures in the cloud.
+AWS Certified Solutions Architect – Associate with hands-on experience designing and automating AWS infrastructure using Terraform and CI/CD pipelines.
+
+I focus on building secure, repeatable cloud platforms using Infrastructure as Code, PR-based workflows, and DevSecOps practices. My projects emphasize real-world concerns like environment separation, security gating, and safe change management.
+
+Currently building portfolio projects that demonstrate how cloud architecture decisions are enforced through automation, not manual processes.
+
 
 
 
