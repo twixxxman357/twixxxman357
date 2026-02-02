@@ -42,7 +42,7 @@ Currently building portfolio projects that demonstrate how cloud architecture de
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Jenkins Installation        |<a href="https://github.com/twixxxman357/Deploy-Jenkins-on-AWS-Ubuntu-EC2-Instance-.git">Deploying Jenkins on an AWS Ubuntu EC2 Instance</a> |
 | Jenkins Container Leveraging Docker |<a href="https://github.com/twixxxman357/Jenkins-Containers-Using-Docker.git">Deploying Jenkins Leveraging Docker</a> |
-| AWS Global Web Architecture Terraform |<a href="https://github.com/twixxxman357/AWS-Cloud-Global-Architecture.git">Global Deployment AWS using Terraform</a> |
+| AWS Global Architecture Terraform |<a href="https://github.com/twixxxman357/AWS-Cloud-Global-Architecture.git">Global Deployment AWS using Terraform</a> |
 | GCP Load Balancer  |<a href="https://github.com/twixxxman357/GCP-Load-Balancer-Deployment.git">Deployment of GCP Load Balancer</a> |
 | AWS Three Tier Web Architecture |<a href="https://github.com/twixxxman357/3-Tier-Architecture-Terraform.git">Deployment of Architecture</a> |
 | PYTHON APP Building |<a href="https://github.com/twixxxman357/Red-Eyes-Github-Bootcamp-PYTHON.git">Python Coding Teaching Application Tkinter</a> |
