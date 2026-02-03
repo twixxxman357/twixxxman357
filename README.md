@@ -18,7 +18,7 @@ Currently building portfolio projects that demonstrate how cloud architecture de
 
 
 # My Skills🎓
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,snyk,docker,ansible,azure,bash,github,jenkins,kubernetes,powershell,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,docker,ansible,azure,bash,github,jenkins,kubernetes,powershell,py,vscode)](https://skillicons.dev)
 
 
 
