@@ -35,7 +35,7 @@ Currently building portfolio projects that demonstrate how cloud architecture de
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Hands On Projects:</h2>
 
   
 | Skill                       | Cloud Project         |
