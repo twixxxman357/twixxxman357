@@ -43,6 +43,6 @@ Currently building portfolio projects that demonstrate how cloud architecture de
 | AWS Global Architecture Terraform |<a href="https://github.com/twixxxman357/AWS-Cloud-Global-Architecture.git">Transit Gateway VPC Peering</a> |
 | GCP Load Balancer  |<a href="https://github.com/twixxxman357/GCP-Load-Balancer-Deployment.git">Deployment of GCP Load Balancer</a> |
 | AWS Three Tier Web Architecture |<a href="https://github.com/twixxxman357/3-Tier-Architecture-Terraform.git">Deployment of Architecture</a> |
-| CI/CD Pipelines |<a href="https://github.com/twixxxman357/terraform-devsecops-ci-cd.git">Deploy Using Snyk</a> |
+| CI/CD Pipelines |<a href="https://github.com/twixxxman357/terraform-devsecops-ci-cd.git">Deploy Using Snyk Intergration</a> |
 
 
