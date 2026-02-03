@@ -38,7 +38,7 @@ Currently building portfolio projects that demonstrate how cloud architecture de
 <h2>👨‍💻 Hands On Projects:</h2>
 
   
-| Skill                       | Cloud Project         |
+| Skill                       | Cloud Projects         |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | AWS Global Architecture Terraform |<a href="https://github.com/twixxxman357/AWS-Cloud-Global-Architecture.git">Transit Gateway VPC Peering</a> |
 | GCP Load Balancer  |<a href="https://github.com/twixxxman357/GCP-Load-Balancer-Deployment.git">Deployment of GCP Load Balancer</a> |
