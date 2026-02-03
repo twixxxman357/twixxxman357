@@ -29,7 +29,7 @@ Currently building portfolio projects that demonstrate how cloud architecture de
 
 <h1> Certifications🎓</h1> ✅
 • <b>AWS Certified Solutions Architect - Associate</b><br> ✅
-• <b>HashiCorp Terraform Associate(003) (In progress)</b><br> 
+• <b>HashiCorp Terraform Associate(003) - Associate</b><br> 
 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)
