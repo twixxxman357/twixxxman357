@@ -10,9 +10,6 @@ I focus on building secure, repeatable cloud platforms using Infrastructure as C
 
 Currently building portfolio projects that demonstrate how cloud architecture decisions are enforced through automation, not manual processes.
 
-## 📄 Resume
-[Download my resume](./John_Doe_Resume.pdf)
-
 
 
 
